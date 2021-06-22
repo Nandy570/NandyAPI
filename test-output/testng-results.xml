@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4080" started-at="2021-06-22T17:56:41 CAT" finished-at="2021-06-22T17:56:45 CAT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4080" started-at="2021-06-22T17:56:41 CAT" finished-at="2021-06-22T17:56:45 CAT">
+      <class name="dogAPI.DogAPITest">
+        <test-method status="PASS" signature="RetrieveAllSubBreeds()[pri:0, instance:dogAPI.DogAPITest@27a5f880]" name="RetrieveAllSubBreeds" duration-ms="3204" started-at="2021-06-22T17:56:41 CAT" finished-at="2021-06-22T17:56:44 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RetrieveAllSubBreeds -->
+        <test-method status="PASS" signature="VerifyBulldog()[pri:0, instance:dogAPI.DogAPITest@27a5f880]" name="VerifyBulldog" duration-ms="415" started-at="2021-06-22T17:56:44 CAT" finished-at="2021-06-22T17:56:44 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBulldog -->
+        <test-method status="PASS" signature="VerifySuccessfulMsg()[pri:0, instance:dogAPI.DogAPITest@27a5f880]" name="VerifySuccessfulMsg" duration-ms="383" started-at="2021-06-22T17:56:44 CAT" finished-at="2021-06-22T17:56:45 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySuccessfulMsg -->
+      </class> <!-- dogAPI.DogAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
